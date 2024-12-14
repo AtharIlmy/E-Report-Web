@@ -138,13 +138,6 @@ h1 {
     font-weight: bold;
   }
 
-.btn-delete {
-    background-color: #dc3545;
-}
-
-.btn-delete:hover {
-    background-color: #a71d2a;
-}
 
 .Logout {
     text-align: center;

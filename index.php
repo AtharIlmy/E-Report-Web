@@ -37,7 +37,7 @@ $result = $conn->query($sql);
 
     <div class="container">
         <div class="header">
-            <h1>Welcome To Web Community Complaints</h1>
+            <h1>Welcome To The Community Complaints Web</h1>
             <div class="Logout"><a href="logout.php" class="btn">Logout</a></div>
         </div>
         <center><a href="tambah.php" class="btn">Add Complaints</a></center>
