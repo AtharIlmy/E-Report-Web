@@ -34,8 +34,7 @@ if ($_SERVER['REQUEST_METHOD'] === 'POST') {
     <nav class="navbar">
         <div class="container">
             <a href="index.php" class="logo">
-                <img src="assets/logo.png" alt="Logo">
-                E-Report
+                 E-Report
             </a>
             <ul class="nav-links">
                 <li><a href="index.php">Home</a></li>
